@@ -29,11 +29,14 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  新建 Pull Request
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+简悦
+681183
+License	zu69-yibkns-w7nn9e-2d9w
+邮箱地址	dsmilely@163.com
+提交日期	13-Oct-2021 20:01:34
+注意事项	
+1. 此平台为开放平台，当获取兑换码后，请马上 进行兑换
+2. 请核对上面的信息，如与你提交的信息不符，请不要使用，否则账户会被封
+3. 如上述信息与提交的不符，请发邮件到 这里，并说明原因
+4. 兑换后，切勿遗失你的配置文件，可通过简悦支持的 同步方案 来备份你的配置文件
+5. 绑定后请务必看下，高级账户的一些 入门介绍
